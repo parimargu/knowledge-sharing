@@ -19,8 +19,11 @@
 --- 
 
 [1. Python](Python/0_Python_README.md)
+
 2. SQL
+   
 3. Java
+   
 4. C#
 
 ## [Database](Database/0_Database_README.md)
