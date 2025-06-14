@@ -18,12 +18,12 @@
 
 --- 
 
-1. Python
+[1. Python](Python/0_Python_README.md)
 2. SQL
 3. Java
 4. C#
 
-## Database
+## [Database](Database/0_Database_README.md)
 
 ---
 
@@ -101,11 +101,11 @@
 
 ---
 
-### Natural Language Processing(NLP)
+### [Natural Language Processing(NLP)](NLP/0_NLP_README.md)
 
 ---
 
-### Generative AI
+### [Generative AI](GenAI/0_GenAI_README.md)
 
 ---
 
