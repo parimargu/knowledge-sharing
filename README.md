@@ -23,6 +23,10 @@
 3. Java
 4. C#
 
+### Projects / Mini-Projects / Proof of Concept(POC)
+
+---
+
 ## [Database](Database/0_Database_README.md)
 
 ---
@@ -42,6 +46,10 @@
 5. IBM Db2
 6. SQLite
 
+#### Projects / Mini-Projects / Proof of Concept(POC)
+
+---
+
 ## Web Development
 
 ---
@@ -58,6 +66,10 @@
 6. Spring Boot (Java)
 7. ASP.NET(C#)
 
+#### Projects / Mini-Projects / Proof of Concept(POC)
+
+---
+
 ### 2. Frontend Development
 
 ---
@@ -68,6 +80,10 @@
 4. React
 5. Bootstrap
 
+#### Projects / Mini-Projects / Proof of Concept(POC)
+
+---
+
 ## Data Science
 
 ---
@@ -76,6 +92,9 @@
 
 ---
 
+### Projects / Mini-Projects / Proof of Concept(POC)
+
+---
 
 ## Artificial Intelligence(AI)
 
@@ -97,11 +116,23 @@
 
 ---
 
+#### Projects / Mini-Projects / Proof of Concept(POC)
+
+---
+
 ### Deep Learning(DL)
 
 ---
 
+#### Projects / Mini-Projects / Proof of Concept(POC)
+
+---
+
 ### [Natural Language Processing(NLP)](NLP/0_NLP_README.md)
+
+---
+
+#### Projects / Mini-Projects / Proof of Concept(POC)
 
 ---
 
@@ -113,6 +144,10 @@
 2. LVM
 3. RAG
 
+#### Projects / Mini-Projects / Proof of Concept(POC)
+
+---
+
 ### AI Agents
 
 ---
@@ -123,10 +158,17 @@
 4. A2A
 5. ACP
 
+#### Projects / Mini-Projects / Proof of Concept(POC)
+
+---
+
 ### Agentic AI
 
 ---
 
+#### Projects / Mini-Projects / Proof of Concept(POC)
+
+---
 
 ## Data Engineering
 
@@ -135,6 +177,13 @@
 ### Big Data
 
 ---
+
+#### Distributed Storage and Object Storage
+
+---
+
+1. HDFS
+2. MinIO
 
 #### Distributed Computing
 
@@ -150,19 +199,16 @@
 2. Cassandra
 3. HBase
 
-#### Distributed Storage and Object Storage
-
----
-
-1. HDFS
-2. MinIO
-
 #### Workflow Management Tool/Job or Pipeline Orchestration
 
 ---
 
 1. Apache Oozie
 2. Apache Airflow
+
+##### Projects / Mini-Projects / Proof of Concept(POC)
+
+---
 
 ## DevOps
 
@@ -201,6 +247,11 @@
 | Selenium                                    | Automated Testing                  |
 | JMeter                                      | Performance / Load Testing         |
 | Datadog                                     | Application Performance Monitoring |
+
+
+#### Projects / Mini-Projects / Proof of Concept(POC)
+
+---
 
 ## Cloud Computing
 
@@ -245,6 +296,10 @@ Commonly used cloud services from AWS, Azure, and GCP cloud providers:
 | Google Cloud Pub/Sub               | Messaging & Eventing       | GCP            |
 | Google Cloud SQL                   | Relational Database        | GCP            |
 
+#### Projects / Mini-Projects / Proof of Concept(POC)
+
+---
+
 ### Cloud Data Warehouse
 
 ---
@@ -255,6 +310,9 @@ Commonly used cloud services from AWS, Azure, and GCP cloud providers:
 
 Snowflake is a cloud-based data platform known as the Data Cloud, offering a unified service for data warehousing, data lakes, data engineering, and data sharing. It allows organizations to store, process, and analyze data with scalability and flexibility, running on public cloud infrastructure like AWS, Azure, and GCP. Snowflake also provides features like secure data sharing, data cloning, and support for various programming languages and tools. 
 
+#### Projects / Mini-Projects / Proof of Concept(POC)
+
+---
 
 
 
