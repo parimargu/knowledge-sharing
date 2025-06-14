@@ -144,7 +144,7 @@
 2. LVM
 3. RAG
 
-#### Projects / Mini-Projects / Proof of Concept(POC)
+#### [Projects / Mini-Projects / Proof of Concept(POC)](GenAI/Projects_Mini-Projects_POCs)
 
 ---
 
