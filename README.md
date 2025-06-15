@@ -206,6 +206,13 @@
 1. Apache Oozie
 2. Apache Airflow
 
+#### Distributed Messaging System
+
+---
+
+1. Apache Kafka
+2. RabbitMQ 
+
 ##### Projects / Mini-Projects / Proof of Concept(POC)
 
 ---
