@@ -2,7 +2,7 @@
 
 ---
 
-## Ideas from [ChatGPT](https://chatgpt.com/){:target="_blank" rel="noopener noreferrer"} Chatbot(Tool)
+## Ideas from [ChatGPT](https://chatgpt.com/){target="_blank"} Chatbot(Tool)
 
 ---
 
