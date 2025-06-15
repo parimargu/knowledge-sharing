@@ -2,9 +2,7 @@
 
 ---
 
-## Ideas from [ChatGPT](https://chatgpt.com/){:target="_blank"} Chatbot(Tool)
-
-Click [here](https://www.geeksforgeeks.org/){:target="_blank"} to visit GeeksForGeeks website.
+## Ideas from [ChatGPT](https://chatgpt.com/) Chatbot(Tool)
 
 ---
 
