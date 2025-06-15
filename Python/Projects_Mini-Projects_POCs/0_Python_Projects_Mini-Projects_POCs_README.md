@@ -2,7 +2,7 @@
 
 ---
 
-## Ideas from ChatGPT Chatbot(Tool)
+## Ideas from [ChatGPT](https://chatgpt.com/) Chatbot(Tool)
 
 ---
 
@@ -37,7 +37,7 @@
 
 Feel free to pick any project, swap in libraries you like (e.g., `pandas`, `click`, `Flask`, `SQLite`), or extend functionality as you gain confidence. Happy coding!
 
-## Ideas from Grok Chatbot(Tool)
+## Ideas from [Grok](https://grok.com/) Chatbot(Tool)
 
 ---
 
@@ -72,7 +72,7 @@ Feel free to pick any project, swap in libraries you like (e.g., `pandas`, `clic
 
 These projects leverage various Python skills such as console applications, GUI development with Tkinter, web development with Flask or Django, and data handling with libraries like Pandas, all tailored to specific industry needs. Happy coding!
 
-## Ideas from DeepSeek Chatbot(Tool)
+## Ideas from [DeepSeek](https://chat.deepseek.com/) Chatbot(Tool)
 
 ---
 
@@ -111,7 +111,7 @@ These projects leverage various Python skills such as console applications, GUI 
 - **Deployment**: Docker packaging, basic web hosting (Flask), GUI (Tkinter/PyQt)
 
 
-## Ideas from Claude AI Chatbot(Tool)
+## Ideas from [Claude AI](https://claude.ai/) Chatbot(Tool)
 
 ---
 
