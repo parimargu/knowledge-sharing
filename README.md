@@ -322,5 +322,13 @@ Snowflake is a cloud-based data platform known as the Data Cloud, offering a uni
 ---
 
 
+# Career Path Guidance
+
+---
+
+Start with **Python** and **SQL** — you need to study and gain expertise in these, as they form the foundation for most job roles you may choose.
+
+## [Career Path Options](Career_Path_Guidance/Career_Path_Options_ReadMe.md)
+
 
 
