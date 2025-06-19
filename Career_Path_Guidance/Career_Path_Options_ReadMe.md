@@ -13,7 +13,7 @@
   - Probability & Statistics  
   - Power BI or Tableau
 
-### 3. ML/DL/AI Engineer
+### 3. Machine Learning(ML)/Deep Learning(DL)/Artificial Intelligence(AI) Engineer
 - **Tools & Concepts**:  
   - Scikit-Learn  
   - TensorFlow or PyTorch  
@@ -21,11 +21,13 @@
   - Calculus  
   - *Includes tools from Role #2*
 
-### 4. GenAI Engineer
+### 4. Generative AI(GenAI) Engineer
 - **Tools & Concepts**:  
   - NLP  
   - Transformer Architecture  
-  - Language Models  
+  - Language Models
+  - LLM(Large Language Model)
+  - LVM(Large Vision Model)
   - LangChain  
   - AutoGen  
   - CrewAI  
