@@ -63,6 +63,7 @@ Your app sends payment details to their API and gets success/failure response.
 
 ---
 
+
 ## 🛠️ How to Create an API?
 
 If you’re building your own API, you write code that:
@@ -136,4 +137,31 @@ The most common for web/mobile apps today is **REST API** and sometimes **GraphQ
 
 ---
 
+# 🔧 How Does an API Work?
+
+An API acts as a **middleman** between the **client (e.g., frontend, mobile app)** and the **server (e.g., database, backend)**.
+
+### Typical Flow:
+1. **Client** sends a request (e.g., "Get user info") to the API endpoint.
+2. **API server** processes the request.
+3. **Server/database** sends the data back to the API.
+4. **API** formats and sends a response to the client.
+
+---
+
+# 🔁 Sample Process Flow (API Request/Response)
+
+```mermaid
+sequenceDiagram
+    participant User as 👤 User (Frontend)
+    participant API as 🌐 API Endpoint
+    participant Server as 🖥️ Backend Server
+    participant DB as 🗄️ Database
+
+    User->>API: Sends HTTP Request (GET /users/1)
+    API->>Server: Forwards request
+    Server->>DB: Query user data
+    DB-->>Server: Returns user data
+    Server-->>API: Sends response data
+    API-->>User: Returns JSON response
 
