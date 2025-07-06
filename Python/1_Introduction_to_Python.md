@@ -94,3 +94,9 @@ Python is a popular, high‑level programming language that’s known for its re
 * **Use print()**: It’s your friend for debugging and understanding what’s happening.
 
 Welcome to the world of Python programming! With consistent practice, you’ll be solving fun problems and building cool projects in no time.
+
+# Python Libraries or Packages
+
+---
+
+## [Streamlit](Streamlit/1_Introduction_to_Streamlit.md)
