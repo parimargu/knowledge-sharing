@@ -1,0 +1,101 @@
+Order ID,Customer Name,City,State,Category,Item,Quantity,Price per Unit ($),Total Price ($),Order Date,Shipping Date,Delivery Status,Payment Method
+AMZ1000,Jill Cameron,New Amandahaven,South Dakota,Home & Kitchen,Vacuum Cleaner,2,91.24,182.48,2025-05-20,2025-05-25,Pending,COD
+AMZ1001,Douglas Harris,West Cindyshire,Rhode Island,Beauty,Face Cream,3,353.95,1061.85,2025-02-22,2025-02-28,Delivered,Net Banking
+AMZ1002,Emily Brandt,Stewartside,Virginia,Books,Cookbook,3,98.49,295.47,2025-02-19,2025-02-26,Cancelled,COD
+AMZ1003,Maurice Escobar,Robinport,Pennsylvania,Electronics,Laptop,5,13.32,66.6,2025-03-26,2025-03-29,Cancelled,UPI
+AMZ1004,Charles Ray,Leahstad,California,Clothing,T-Shirt,4,443.05,1772.2,2025-01-26,2025-01-28,Shipped,UPI
+AMZ1005,Scott Mann,South Alison,North Carolina,Beauty,Shampoo,1,435.79,435.79,2025-02-13,2025-02-17,Cancelled,Net Banking
+AMZ1006,Eric Bradford,Johnbury,Massachusetts,Clothing,Jeans,1,430.48,430.48,2025-03-27,2025-04-03,Pending,Debit Card
+AMZ1007,Mary King,Ronaldfurt,Illinois,Beauty,Hair Dryer,2,413.41,826.82,2025-05-10,2025-05-17,Pending,Net Banking
+AMZ1008,Rachel Holt,Joneshaven,Maine,Beauty,Perfume,5,379.56,1897.8,2025-03-02,2025-03-07,Shipped,COD
+AMZ1009,Jesus Reyes,Marystad,Michigan,Home & Kitchen,Air Fryer,1,271.06,271.06,2025-04-02,2025-04-04,Cancelled,Credit Card
+AMZ1010,James Tran,New Ronaldport,South Dakota,Books,Science Journal,3,166.64,499.92,2025-06-29,2025-07-05,Cancelled,UPI
+AMZ1011,Cheyenne Brown,Richardsonfort,Colorado,Home & Kitchen,Cookware Set,1,101.98,101.98,2025-02-21,2025-02-22,Shipped,COD
+AMZ1012,Michael Taylor,Joneschester,Arkansas,Clothing,T-Shirt,1,360.48,360.48,2025-03-09,2025-03-16,Cancelled,Credit Card
+AMZ1013,Sonya Smith,New Shawnside,Hawaii,Clothing,Jeans,2,113.92,227.84,2025-03-17,2025-03-20,Shipped,UPI
+AMZ1014,Kiara Wright,Jenniferland,South Dakota,Clothing,T-Shirt,2,152.25,304.5,2025-05-08,2025-05-12,Delivered,Debit Card
+AMZ1015,Brooke Friedman,Blakefurt,Colorado,Books,Comics,4,279.35,1117.4,2025-04-17,2025-04-21,Delivered,UPI
+AMZ1016,Raven Cantrell,Calebberg,North Carolina,Books,Science Journal,3,455.74,1367.22,2025-07-06,2025-07-08,Shipped,Credit Card
+AMZ1017,Kirk King,Brownton,Maine,Home & Kitchen,Microwave,5,192.86,964.3,2025-05-04,2025-05-05,Delivered,COD
+AMZ1018,Thomas Porter,North Kimberly,Colorado,Clothing,Jeans,5,359.86,1799.3,2025-04-27,2025-05-04,Pending,Debit Card
+AMZ1019,Randy Hall,South Courtney,North Dakota,Beauty,Face Cream,3,328.82,986.46,2025-06-24,2025-06-25,Delivered,Net Banking
+AMZ1020,Jordan Morrison,Nicolefurt,South Carolina,Electronics,Smartphone,2,313.76,627.52,2025-05-08,2025-05-13,Shipped,Credit Card
+AMZ1021,John Gibson,Colinchester,Iowa,Electronics,Smartphone,2,77.97,155.94,2025-06-07,2025-06-11,Pending,Debit Card
+AMZ1022,Curtis King,Oconnorview,New Jersey,Electronics,Bluetooth Speaker,4,102.39,409.56,2025-06-27,2025-07-03,Cancelled,COD
+AMZ1023,John Stephens,Howardland,Colorado,Beauty,Hair Dryer,2,436.37,872.74,2025-04-28,2025-05-05,Shipped,UPI
+AMZ1024,Angela Hill,West Dustinburgh,Utah,Books,Science Journal,3,497.52,1492.56,2025-03-18,2025-03-23,Delivered,Debit Card
+AMZ1025,Larry Sanchez,East Kaitlyn,Massachusetts,Electronics,Smartphone,5,149.87,749.35,2025-03-26,2025-03-31,Delivered,Credit Card
+AMZ1026,Charles Banks,Williamsport,Alaska,Books,Biography,2,417.35,834.7,2025-07-08,2025-07-12,Pending,Net Banking
+AMZ1027,Kristen Taylor,Melissashire,Michigan,Electronics,Bluetooth Speaker,4,168.71,674.84,2025-07-08,2025-07-15,Pending,Debit Card
+AMZ1028,Cody Nunez,Gomezburgh,Florida,Electronics,Headphones,4,92.15,368.6,2025-05-18,2025-05-25,Cancelled,Credit Card
+AMZ1029,Traci Kennedy,Riverashire,Michigan,Electronics,Smartphone,5,218.16,1090.8,2025-04-04,2025-04-05,Cancelled,COD
+AMZ1030,Monica Perez,North Jeffreyburgh,Indiana,Home & Kitchen,Cookware Set,2,489.89,979.78,2025-03-08,2025-03-12,Delivered,Credit Card
+AMZ1031,Summer Price,Myersburgh,Nevada,Beauty,Perfume,2,67.25,134.5,2025-06-13,2025-06-19,Shipped,Credit Card
+AMZ1032,Allison Washington,East George,New Hampshire,Clothing,Jeans,1,460.67,460.67,2025-06-27,2025-07-04,Delivered,Credit Card
+AMZ1033,Mariah Dixon,Cruzchester,Illinois,Electronics,Headphones,5,485.76,2428.8,2025-06-09,2025-06-14,Pending,COD
+AMZ1034,Lori Vargas,Port Savannahton,Florida,Clothing,T-Shirt,1,99.59,99.59,2025-05-29,2025-06-05,Cancelled,COD
+AMZ1035,Brittany Savage,Lake Erikaberg,Arizona,Clothing,Jeans,3,77.78,233.34,2025-04-05,2025-04-11,Shipped,COD
+AMZ1036,Pamela Hudson,East Matthew,Connecticut,Electronics,Smartphone,1,240.51,240.51,2025-05-21,2025-05-26,Delivered,COD
+AMZ1037,Patty Bennett,Jonathanchester,Vermont,Beauty,Shampoo,5,147.87,739.35,2025-04-12,2025-04-15,Pending,UPI
+AMZ1038,Alan Fernandez,Simmonsmouth,Tennessee,Books,Cookbook,3,440.76,1322.28,2025-04-03,2025-04-08,Delivered,COD
+AMZ1039,Jessica Chan,South Stephaniehaven,Rhode Island,Books,Science Journal,2,258.97,517.94,2025-04-07,2025-04-08,Cancelled,Credit Card
+AMZ1040,Sheila Newton,Tammyshire,Minnesota,Books,Comics,2,181.76,363.52,2025-06-17,2025-06-21,Shipped,Net Banking
+AMZ1041,Carolyn Lopez,Davidberg,Kentucky,Home & Kitchen,Vacuum Cleaner,1,101.26,101.26,2025-05-10,2025-05-11,Shipped,Debit Card
+AMZ1042,Terri Wheeler,Jessicaside,Colorado,Home & Kitchen,Vacuum Cleaner,3,281.11,843.33,2025-06-05,2025-06-09,Delivered,UPI
+AMZ1043,Mr. Derrick Robinson,Port Samuelfort,Rhode Island,Beauty,Lipstick,2,377.81,755.62,2025-07-04,2025-07-08,Pending,Debit Card
+AMZ1044,Ryan Hoffman,New Amber,Minnesota,Beauty,Perfume,4,418.21,1672.84,2025-06-23,2025-06-28,Shipped,Net Banking
+AMZ1045,Jennifer Holmes,Johnsonton,Idaho,Beauty,Face Cream,3,270.27,810.81,2025-07-10,2025-07-14,Delivered,Credit Card
+AMZ1046,Heather Newman,Jillfurt,Wyoming,Home & Kitchen,Air Fryer,5,399.56,1997.8,2025-04-20,2025-04-26,Delivered,COD
+AMZ1047,Jeffrey Frederick,New Jenniferland,Connecticut,Electronics,Laptop,1,301.15,301.15,2025-01-19,2025-01-20,Cancelled,Credit Card
+AMZ1048,Jerry Boyd,Websterchester,Florida,Beauty,Face Cream,3,483.55,1450.65,2025-06-24,2025-06-25,Cancelled,Credit Card
+AMZ1049,Jessica Hanson,Port Katherine,Nebraska,Books,Comics,4,57.03,228.12,2025-07-13,2025-07-16,Cancelled,Credit Card
+AMZ1050,Robert Bartlett,Liburgh,Washington,Beauty,Shampoo,2,293.56,587.12,2025-05-26,2025-05-29,Shipped,Debit Card
+AMZ1051,Julia Howard,Port Natasha,Massachusetts,Books,Science Journal,4,379.74,1518.96,2025-06-19,2025-06-26,Shipped,Net Banking
+AMZ1052,Ashley Wallace,South Joseph,North Carolina,Beauty,Hair Dryer,4,78.95,315.8,2025-02-15,2025-02-18,Cancelled,Debit Card
+AMZ1053,Taylor Ruiz,Tuckermouth,Florida,Home & Kitchen,Air Fryer,3,191.7,575.1,2025-03-29,2025-04-05,Pending,Credit Card
+AMZ1054,Samuel West,Samanthafurt,Mississippi,Books,Cookbook,5,177.7,888.5,2025-03-14,2025-03-16,Shipped,Net Banking
+AMZ1055,Michael Daniel,Sampsonview,Nebraska,Clothing,Sneakers,4,338.48,1353.92,2025-07-05,2025-07-09,Shipped,UPI
+AMZ1056,Jessica Pittman,Port Lisa,New Mexico,Home & Kitchen,Cookware Set,5,15.38,76.9,2025-06-13,2025-06-16,Pending,Credit Card
+AMZ1057,Julie Hernandez,New Christinetown,Utah,Books,Cookbook,2,370.05,740.1,2025-06-30,2025-07-03,Shipped,UPI
+AMZ1058,Andrea Watkins,Port Joshua,South Carolina,Electronics,Smartphone,2,292.11,584.22,2025-04-05,2025-04-06,Pending,UPI
+AMZ1059,Victoria Garcia,Coxtown,Kansas,Clothing,Jeans,2,52.87,105.74,2025-07-01,2025-07-08,Pending,COD
+AMZ1060,Mr. Colton Wilkins PhD,East Robertshire,West Virginia,Books,Biography,2,323.74,647.48,2025-03-22,2025-03-26,Delivered,Credit Card
+AMZ1061,Heather Welch,North Jonathanchester,Louisiana,Beauty,Lipstick,2,443.82,887.64,2025-02-19,2025-02-24,Pending,Net Banking
+AMZ1062,Keith Barnes,Lake Melanieborough,Louisiana,Clothing,Sneakers,1,228.54,228.54,2025-05-21,2025-05-27,Delivered,COD
+AMZ1063,Karen Gonzalez,South Rachelside,Montana,Clothing,Jacket,5,278.69,1393.45,2025-04-18,2025-04-22,Delivered,Net Banking
+AMZ1064,Joseph Collins,New Brent,Rhode Island,Home & Kitchen,Vacuum Cleaner,5,184.91,924.55,2025-06-19,2025-06-25,Cancelled,Net Banking
+AMZ1065,Aaron Pratt,Lake Christian,North Dakota,Electronics,Smartphone,3,168.47,505.41,2025-02-04,2025-02-08,Pending,UPI
+AMZ1066,Randy Tanner,Davisburgh,Maine,Books,Fiction Book,4,41.76,167.04,2025-05-24,2025-05-31,Pending,Debit Card
+AMZ1067,Luis Clarke,Alexandrahaven,Wyoming,Beauty,Hair Dryer,2,327.25,654.5,2025-02-11,2025-02-18,Pending,Net Banking
+AMZ1068,Jeffrey Lewis,Robertburgh,Maryland,Clothing,Jeans,5,178.88,894.4,2025-01-25,2025-01-31,Pending,COD
+AMZ1069,Susan Gonzalez,New Matthew,Kansas,Books,Fiction Book,1,185.38,185.38,2025-06-04,2025-06-06,Pending,Net Banking
+AMZ1070,Arthur Jones,North Kayla,New Hampshire,Clothing,Jeans,2,13.85,27.7,2025-04-28,2025-05-04,Cancelled,Net Banking
+AMZ1071,Misty Sullivan,Steelemouth,Michigan,Home & Kitchen,Cookware Set,1,343.47,343.47,2025-04-30,2025-05-07,Shipped,UPI
+AMZ1072,Maureen Murray,East Michaelmouth,Montana,Electronics,Laptop,4,440.69,1762.76,2025-05-05,2025-05-10,Cancelled,Net Banking
+AMZ1073,Gavin Jimenez,Justinhaven,Florida,Books,Fiction Book,4,183.71,734.84,2025-03-25,2025-03-26,Cancelled,COD
+AMZ1074,Joshua Roberts,Lake Stephanie,Georgia,Beauty,Face Cream,3,66.91,200.73,2025-05-07,2025-05-12,Pending,Credit Card
+AMZ1075,Jennifer Rose,Livingstonview,Louisiana,Home & Kitchen,Air Fryer,2,226.8,453.6,2025-07-03,2025-07-10,Shipped,Net Banking
+AMZ1076,Terrance Pittman DDS,East Waynebury,South Carolina,Books,Cookbook,3,127.49,382.47,2025-02-12,2025-02-16,Pending,Debit Card
+AMZ1077,Tiffany Torres,Erinton,Wyoming,Clothing,T-Shirt,2,496.4,992.8,2025-04-18,2025-04-20,Cancelled,Credit Card
+AMZ1078,Diana Beasley,West Markfort,New Mexico,Clothing,Sweatshirt,4,193.68,774.72,2025-03-19,2025-03-20,Cancelled,UPI
+AMZ1079,Angela Norris,Travisshire,Kansas,Beauty,Perfume,1,34.57,34.57,2025-02-09,2025-02-10,Shipped,UPI
+AMZ1080,Caleb Munoz,South Zachary,Alaska,Electronics,Power Bank,1,409.41,409.41,2025-06-09,2025-06-13,Delivered,Credit Card
+AMZ1081,April Martin,West Marcberg,Iowa,Beauty,Shampoo,3,474.65,1423.95,2025-06-25,2025-07-02,Cancelled,UPI
+AMZ1082,Matthew Hayes,South Ericbury,Oklahoma,Books,Science Journal,5,267.97,1339.85,2025-03-13,2025-03-14,Cancelled,UPI
+AMZ1083,Andrew Sherman,Randyport,Colorado,Electronics,Power Bank,1,267.47,267.47,2025-07-09,2025-07-12,Pending,UPI
+AMZ1084,Colin Williams,New Amybury,Oregon,Clothing,Jeans,3,447.44,1342.32,2025-05-29,2025-06-02,Pending,Debit Card
+AMZ1085,John Jones,Gonzalesland,Nebraska,Beauty,Shampoo,5,183.71,918.55,2025-03-12,2025-03-16,Cancelled,Debit Card
+AMZ1086,Candice Morris,Dennisfort,North Dakota,Electronics,Power Bank,5,436.36,2181.8,2025-03-27,2025-04-01,Pending,UPI
+AMZ1087,Brittany Powell,Port Timothy,Massachusetts,Beauty,Hair Dryer,5,318.67,1593.35,2025-06-19,2025-06-26,Shipped,Net Banking
+AMZ1088,Anna Ashley,North Alan,Vermont,Home & Kitchen,Air Fryer,1,323.71,323.71,2025-06-14,2025-06-20,Pending,Net Banking
+AMZ1089,Emily Nelson,Pamelaside,Florida,Beauty,Lipstick,1,292.3,292.3,2025-05-18,2025-05-24,Shipped,Debit Card
+AMZ1090,Rachel Andrews,New Robert,Ohio,Beauty,Face Cream,5,439.91,2199.55,2025-06-10,2025-06-16,Shipped,COD
+AMZ1091,Kathleen Ford,North Richard,Pennsylvania,Clothing,Sweatshirt,1,454.9,454.9,2025-06-21,2025-06-27,Shipped,Net Banking
+AMZ1092,Holly Kaufman,North Jeffreymouth,Michigan,Home & Kitchen,Blender,3,131.69,395.07,2025-07-10,2025-07-14,Shipped,UPI
+AMZ1093,Marie Burns,West David,Massachusetts,Home & Kitchen,Blender,3,41.05,123.15,2025-05-20,2025-05-24,Shipped,Debit Card
+AMZ1094,Anthony Hayes,Lake Amy,Oregon,Books,Biography,5,452.25,2261.25,2025-04-19,2025-04-23,Cancelled,Credit Card
+AMZ1095,Maurice Smith,Hamiltonview,Louisiana,Electronics,Smartphone,3,472.75,1418.25,2025-06-28,2025-07-05,Shipped,UPI
+AMZ1096,Sarah Reeves,Wyattport,California,Home & Kitchen,Cookware Set,2,226.96,453.92,2025-05-18,2025-05-23,Delivered,Credit Card
+AMZ1097,Whitney Wong,North Alexanderchester,New York,Books,Biography,2,97.12,194.24,2025-04-11,2025-04-18,Cancelled,COD
+AMZ1098,Sophia Braun,Christensenland,Iowa,Books,Fiction Book,3,364.09,1092.27,2025-07-12,2025-07-17,Delivered,UPI
+AMZ1099,Shannon Reed,New Kimberlyberg,Maine,Books,Biography,5,463.36,2316.8,2025-03-09,2025-03-14,Pending,COD
