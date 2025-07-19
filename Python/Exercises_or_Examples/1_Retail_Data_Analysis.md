@@ -1,4 +1,4 @@
-**25 Python coding exercises** specifically designed for practicing data manipulation and analysis using the **Amazon order dataset** (`amazon_order_details.csv`). These focus on building your **Python + Pandas** skills.
+**25 Python coding exercises** specifically designed for practicing data manipulation and analysis using the **Amazon order dataset** (`[amazon_order_details.csv](amazon_order_details.csv)`). These focus on building your **Python + Pandas** skills.
 
 ---
 
