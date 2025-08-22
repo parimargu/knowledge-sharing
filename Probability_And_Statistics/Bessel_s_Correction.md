@@ -2,7 +2,7 @@
 
 ---
 
-Got it 👍 You’re asking about the **Bessel’s correction** (sometimes miswritten as *Bassein correction*). Let’s break it down step by step in a **school student-friendly way** with **real world analogy + math**.
+Got it 👍 You’re asking about the **Bessel’s correction** (sometimes miswritten as *Bassein correction*). Let’s break it down step by step in a **simple way** with **real world analogy + math**.
 
 ---
 
