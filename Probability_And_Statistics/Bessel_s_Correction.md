@@ -2,10 +2,6 @@
 
 ---
 
-Got it 👍 You’re asking about the **Bessel’s correction** (sometimes miswritten as *Bassein correction*). Let’s break it down step by step in a **simple way** with **real world analogy + math**.
-
----
-
 ## 1. What is Bessel’s Correction?
 
 When we calculate **variance** of a **sample** (a smaller group taken from a bigger population), we slightly adjust the formula to avoid **underestimating** the true variance of the population.
