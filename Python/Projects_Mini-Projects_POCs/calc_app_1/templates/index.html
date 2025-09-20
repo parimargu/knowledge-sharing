@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Flask Calculator</title>
+    <style>
+        body { font-family: Arial, sans-serif; text-align: center; padding: 40px; }
+        .calculator { margin: auto; width: 300px; padding: 20px; border: 1px solid #ddd; border-radius: 10px; }
+        input, select, button { width: 90%; padding: 10px; margin: 5px 0; }
+        .result { margin-top: 15px; font-weight: bold; color: green; }
+        .error { margin-top: 15px; font-weight: bold; color: red; }
+    </style>
+</head>
+<body>
+    <div class="calculator">
+        <h2>Simple Calculator</h2>
+        <form method="POST">
+            <input type="text" name="num1" placeholder="Enter first number" required><br>
+            <input type="text" name="num2" placeholder="Enter second number" required><br>
+            <select name="operation" required>
+                <option value="">-- Select Operation --</option>
+                <option value="add">Addition (+)</option>
+                <option value="subtract">Subtraction (-)</option>
+                <option value="multiply">Multiplication (×)</option>
+                <option value="divide">Division (÷)</option>
+            </select><br>
+            <button type="submit">Calculate</button>
+        </form>
+
+        {% if result is not none %}
+            <div class="result">Result: {{ result }}</div>
+        {% endif %}
+        {% if error %}
+            <div class="error">{{ error }}</div>
+        {% endif %}
+    </div>
+</body>
+</html>
